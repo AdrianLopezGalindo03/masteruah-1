@@ -2,7 +2,7 @@
 2. git add 1.txt
 3. git commit -m "Creamos el fichero 1.txt"
 4. git tag v0.1
-5.git push --tags
+5. git push --tags
 6. git branch v0.2
 7. git checkout v0.2
 8. echo "contenido del fichero 2" > 2.txt
