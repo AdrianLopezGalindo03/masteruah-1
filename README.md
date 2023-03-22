@@ -7,7 +7,7 @@
 7. git checkout v0.2
 8. echo "contenido del fichero 2" > 2.txt
 9. git add 2.txt
-10. git commit -m "AÃ±adir fichero 2.txt a la rama v0.2"
+10. git commit -m "Añadir fichero 2.txt a la rama v0.2"
 11. git push -u origin v0.2
 12. git checkout main
 13. git merge v0.2
