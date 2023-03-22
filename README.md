@@ -1,4 +1,4 @@
-1. git clone https://github.com/sergiofrubio/masteruah
+1. git clone https://github.com/miguelonvaa/masteruah
 2. git add 1.txt
 3. git commit -m "Creamos el fichero 1.txt"
 4. git tag v0.1
